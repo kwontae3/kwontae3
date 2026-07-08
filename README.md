@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Stat
 
-[![xoxoisme's GitHub stats](https://github-stats-extended.vercel.app/api?username=xoxoisme&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![kwontae3's GitHub stats](https://github-stats-extended.vercel.app/api?username=kwontae3&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 
 
