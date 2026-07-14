@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Blog
 
-[My Blog](https://xoxoisme.github.io/)
+[My Blog](https://kwontae3.github.io/)
 
 ## Stat
 
